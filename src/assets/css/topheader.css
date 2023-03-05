@@ -1,0 +1,46 @@
+.navbar-fixed-top{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: calc(100% - 255px);
+    margin-left: 255px;
+    height: 80px;
+    z-index: 100;
+    background-color: var(--bgColor-alt-1);
+}
+
+.btn-group span{
+    margin: 15px;
+    cursor: pointer;
+    color: #C5C7CD;
+}
+
+
+.container-fluid{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0 2.5rem;
+}
+
+.separator{
+    height: 32px;
+    border: 1px solid #DFE0EB;
+}
+
+.profile-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem;
+    gap: 15px;
+}
+.profile-pic{
+    width: 63px;
+    height: 63px;
+}
+.profile-pic img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}

@@ -1,0 +1,19 @@
+:root {
+    --body: #181818;
+    --bgColor: hsla(0, 0%, 100%, 0.9);
+    --text: #000000;
+    --text-1:#333333;
+    --text2: #777777;
+    --text3: #828282;
+    --text-3: #828282;
+    --color-link: #01FF88;
+    --pink-color: #FF75B7;
+    --blue-color: #5D9DFF;
+    --sky-blue:#00B7FE;
+    --red-color:#FD2254;
+    --border: #01FF88;
+    --bgColor-alt-1: #E2FFF2;
+    --bgColor-alt-2: #1884FF;
+    --bgColor-alt-3: #49CDFF;
+    --bgColor-alt-4: rgba(62, 189, 255, 0.45);
+}
